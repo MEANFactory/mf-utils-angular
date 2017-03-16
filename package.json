@@ -1,6 +1,6 @@
 {
   "name": "mf-utils-angular",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Helpful utilities for working within AngularJS.",
   "main": "src/index.js",
   "scripts": {

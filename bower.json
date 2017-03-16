@@ -1,0 +1,43 @@
+{
+  "name": "mf-utils-angular",
+  "version": "1.0.0",
+  "description": "Helpful utilities for working within AngularJS.",
+  "main": "dist/mf-utils-angular.js",
+  "authors": [
+      {
+        "name": "MEAN Factory",
+        "email": "support@meanfactory.com",
+        "url": "http://www.meanfactory.com/"
+    },
+    {
+      "name": "Fred Lackey",
+      "email": "fred.lackey@gmail.com",
+      "url": "http://www.fredlackey.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+      "mf",
+      "angular",
+      "utilities",
+      "meanfactory",
+      "mean factory",
+      "mean"
+  ],
+  "homepage": "https://github.com/MEANFactory/mf-utils-angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "satellizer": "^0.15.5",
+    "moment": "^2.15.1",
+    "toastr": "^2.1.3",
+    "angular-cache": "^4.6.0",
+    "angular-jwt": "^0.1.5",
+    "angular-ui-router": "^0.3.1"
+  }
+}

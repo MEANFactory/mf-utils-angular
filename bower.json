@@ -1,6 +1,6 @@
 {
   "name": "mf-utils-angular",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Helpful utilities for working within AngularJS.",
   "main": "dist/mf-utils-angular.js",
   "authors": [
